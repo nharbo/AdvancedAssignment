@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdvancedAssignment</string>
+    <string name="lolcat">lolcat</string>
+    <string name="randomText">Random Text</string>
+</resources>
